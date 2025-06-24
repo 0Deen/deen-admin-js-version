@@ -15,7 +15,7 @@ const AppReactApexCharts = dynamic(() => import('@/libs/styles/AppReactApexChart
 // Vars
 const series = [
   {
-    name: '2022',
+    name: '2025',
     data: [45, 85, 65, 50, 70]
   }
 ]

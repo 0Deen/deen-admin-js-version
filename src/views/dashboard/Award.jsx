@@ -9,7 +9,7 @@ const Award = () => {
     <Card>
       <CardContent className='flex flex-col gap-2 relative items-start'>
         <div>
-          <Typography variant='h5'>Congratulations John! 🎉</Typography>
+          <Typography variant='h5'>Congratulations Ramah- VibeWithCode! 🎉</Typography>
           <Typography>Best seller of the month</Typography>
         </div>
         <div>

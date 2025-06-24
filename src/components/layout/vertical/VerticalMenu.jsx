@@ -209,7 +209,7 @@ const VerticalMenu = ({ scrollMenu }) => {
             suffix={<i className='ri-external-link-line text-xl' />}
             target='_blank'
           >
-            MUI Tables
+            Deen Tables
           </MenuItem>
         </MenuSection>
         <MenuSection label='Misc'>
@@ -238,7 +238,7 @@ const VerticalMenu = ({ scrollMenu }) => {
             Menu Examples
           </MenuItem>
           <MenuItem
-            href={`https://github.com/themeselection/${process.env.NEXT_PUBLIC_REPO_NAME}/issues`}
+            href={`https://github.com/0Deen/${process.env.NEXT_PUBLIC_REPO_NAME}/issues`}
             icon={<i className='ri-lifebuoy-line' />}
             suffix={<i className='ri-external-link-line text-xl' />}
             target='_blank'
@@ -256,7 +256,7 @@ const VerticalMenu = ({ scrollMenu }) => {
           <SubMenu label='Others' icon={<i className='ri-more-line' />}>
             <MenuItem suffix={<Chip label='New' size='small' color='info' />}>Item With Badge</MenuItem>
             <MenuItem
-              href='https://themeselection.com'
+              href='https://www.linkedin.com/in/kipchumba-kiprotich-2b10b5279/'
               target='_blank'
               suffix={<i className='ri-external-link-line text-xl' />}
             >

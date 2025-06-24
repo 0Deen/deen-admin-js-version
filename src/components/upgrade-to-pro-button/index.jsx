@@ -19,17 +19,13 @@ import styles from './styles.module.css'
 const TooltipContent = () => {
   return (
     <Card>
-      <a href='https://themeselection.com/item/materio-mui-nextjs-admin-template' target='_blank' className='flex'>
-        <img
-          src='https://cdn.themeselection.com/ts-assets/materio/materio-mui-nextjs-admin-template/banner/banner.png'
-          alt='Upgrade to Pro'
-          className='w-full'
-        />
+      <a href='https://www.linkedin.com/in/kipchumba-kiprotich-2b10b5279/' target='_blank' className='flex'>
+        <img src='https://www.linkedin.com/in/kipchumba-kiprotich-2b10b5279/' alt='Upgrade to Pro' className='w-full' />
       </a>
-      <CardHeader title={`${themeConfig.templateName} - MUI Next.js Admin Template`} />
+      <CardHeader title={`${themeConfig.templateName} - VibewithCode Admin Template`} />
       <CardContent>
         <Typography color='textSecondary' className='mbe-4'>
-          {`${themeConfig.templateName} Admin is the most developer friendly & highly customizable Admin Dashboard Template based on MUI and Next.js.`}
+          {`${themeConfig.templateName} Admin is the most developer friendly & highly customizable Admin Dashboard Template based on VibeWithCode and Next.js.`}
         </Typography>
         <Typography color='textSecondary'>Click on below button to explore the PRO version.</Typography>
       </CardContent>
@@ -39,7 +35,7 @@ const TooltipContent = () => {
         </Button>
         <Button
           variant='outlined'
-          href='https://themeselection.com/item/materio-mui-nextjs-admin-template'
+          href='https://www.linkedin.com/in/kipchumba-kiprotich-2b10b5279/'
           target='_blank'
           className='mis-4'
         >
@@ -61,7 +57,7 @@ const UpgradeToProButton = () => {
         <a
           className={styles.button}
           role='button'
-          href='https://themeselection.com/item/materio-mui-nextjs-admin-template'
+          href='https://www.linkedin.com/in/kipchumba-kiprotich-2b10b5279/'
           target='_blank'
         >
           Upgrade to Pro

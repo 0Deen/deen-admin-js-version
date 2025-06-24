@@ -26,13 +26,13 @@ const NavbarContent = () => {
       <div className='flex items-center'>
         <Link
           className='flex mie-2'
-          href={`https://github.com/themeselection/${process.env.NEXT_PUBLIC_REPO_NAME}`}
+          href={`https://github.com/0Deen/${process.env.NEXT_PUBLIC_REPO_NAME}`}
           target='_blank'
         >
           <img
             height={24}
             alt='GitHub Repo stars'
-            src={`https://img.shields.io/github/stars/themeselection/${process.env.NEXT_PUBLIC_REPO_NAME}`}
+            src={`https://img.shields.io/github/stars/0Deen/${process.env.NEXT_PUBLIC_REPO_NAME}`}
           />
         </Link>
         <ModeDropdown />

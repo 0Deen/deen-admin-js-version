@@ -14,46 +14,46 @@ import CustomAvatar from '@core/components/mui/Avatar'
 // Vars
 const data = [
   {
-    avatarLabel: 'US',
+    avatarLabel: 'KE',
     avatarColor: 'success',
     title: '$8,656k',
-    subtitle: 'United states of america',
+    subtitle: 'Kenya',
     sales: '894k',
     trend: 'up',
     trendPercentage: '25.8%'
   },
   {
-    avatarLabel: 'UK',
+    avatarLabel: 'UG',
     avatarColor: 'error',
     title: '$2,415k',
-    subtitle: 'United kingdom',
+    subtitle: 'Uganda',
     sales: '645k',
     trend: 'down',
     trendPercentage: '6.2%'
   },
   {
-    avatarLabel: 'IN',
+    avatarLabel: 'TZ',
     avatarColor: 'warning',
     title: '$865k',
-    subtitle: 'India',
+    subtitle: 'Tanzania',
     sales: '148k',
     trend: 'up',
     trendPercentage: '12.4%'
   },
   {
-    avatarLabel: 'JA',
+    avatarLabel: 'SO',
     avatarColor: 'secondary',
     title: '$745k',
-    subtitle: 'Japan',
+    subtitle: 'Somalia',
     sales: '86k',
     trend: 'down',
     trendPercentage: '11.9%'
   },
   {
-    avatarLabel: 'KO',
+    avatarLabel: 'S SU',
     avatarColor: 'error',
     title: '$45k',
-    subtitle: 'Korea',
+    subtitle: 'South Sudan',
     sales: '42k',
     trend: 'up',
     trendPercentage: '16.2%'

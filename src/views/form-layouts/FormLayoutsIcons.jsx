@@ -21,7 +21,7 @@ const FormLayoutsWithIcon = () => {
               <TextField
                 fullWidth
                 label='Name'
-                placeholder='John Doe'
+                placeholder='Deen Ramah'
                 InputProps={{
                   startAdornment: (
                     <InputAdornment position='start'>
@@ -36,7 +36,7 @@ const FormLayoutsWithIcon = () => {
                 fullWidth
                 type='email'
                 label='Email'
-                placeholder='johndoe@gmail.com'
+                placeholder='deenramaah@gmail.com'
                 InputProps={{
                   startAdornment: (
                     <InputAdornment position='start'>

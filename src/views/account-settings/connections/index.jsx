@@ -50,21 +50,22 @@ const socialAccountsArr = [
   {
     title: 'Facebook',
     isConnected: false,
-    logo: '/images/logos/facebook.png'
+    logo: '/images/logos/facebook.png',
+    href: 'https://www.facebook.com/deen_ramah'
   },
   {
     title: 'Twitter',
     isConnected: true,
     username: '@Theme_Selection',
     logo: '/images/logos/twitter.png',
-    href: 'https://twitter.com/Theme_Selection'
+    href: 'https://x.com/deen_ramah'
   },
   {
     title: 'Linkedin',
     isConnected: true,
     username: '@ThemeSelection',
     logo: '/images/logos/linkedin.png',
-    href: 'https://in.linkedin.com/company/themeselection'
+    href: 'https://in.linkedin.com/deen_ramah'
   },
   {
     title: 'Dribbble',

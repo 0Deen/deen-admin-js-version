@@ -15,7 +15,7 @@
 
 | Dashboard Home | User Management | Settings Panel | Dark Mode |
 |----------------|------------------|----------------|-----------|
-| ![Dashboard Screenshot](https://github.com/DeenRamah/deen-admin-js/blob/main/src/rt.jpg) | ![Users Screenshot](./src/vib.jpg) | ![Settings Screenshot](./src/vii.jpg) | ![Dark Mode Screenshot](./src/yu.jpg) |
+| ![Dashboard Screenshot](https://github.com/DeenRamah/deen-admin-js/blob/main/src/rt.jpg) | ![Users Screenshot](https://github.com/DeenRamah/deen-admin-js/blob/main/src/vib.jpg) | ![Settings Screenshot](https://github.com/DeenRamah/deen-admin-js/blob/main/src/vii.jpg) | ![Dark Mode Screenshot](https://github.com/DeenRamah/deen-admin-js/blob/main/src/yu.jpg) |
 
 > _Replace the placeholder images in `./public/screenshots/` with your own screenshots._
 

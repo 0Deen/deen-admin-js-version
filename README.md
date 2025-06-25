@@ -26,8 +26,8 @@
 ### 🧬 Clone the Repository
 
 ```bash
-git clone https://github.com/DeenRamah/deen-admin-js.git
-cd deen-admin-js
+git clone hhttps://github.com/0Deen/deen-admin-js-version.git
+cd deen-admin-js-version
 ```
 
 ### 📦 Install Dependencies
@@ -110,7 +110,7 @@ Or follow the [Next.js Deployment Docs](https://nextjs.org/docs/deployment) to s
 
 This project was built as part of the **VibeWithCode** challenge – tackling admin systems with modern frontend architecture and futuristic design thinking. 
 
-Crafted by [Deen Ramah](https://github.com/DeenRamah) 💻
+Crafted by [Dev Kiprotich](https://github.com/0Deen) 💻
 
 ---
 
